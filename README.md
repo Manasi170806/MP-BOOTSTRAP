@@ -4,5 +4,5 @@ https://astonishing-cobbler-ffe9df.netlify.app
 
 
 <h1> Admin Panel </h1>
-<a href="unique-caramel-618d3f.netlify.app"><img src="Admin Panel.png"></a>
-unique-caramel-618d3f.netlify.app
+<a href="https://unique-caramel-618d3f.netlify.app"><img src="Admin Panel.png"></a>
+https://unique-caramel-618d3f.netlify.app
